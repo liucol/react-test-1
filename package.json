@@ -2,7 +2,7 @@
   "name": "react-test-1",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://liucol.github.io/react-test-1/build",
+  //"homepage":"https://liucol.github.io/react-test-1/build",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
